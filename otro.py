@@ -1,5 +1,3 @@
-print("hola")
-print("hola")
-print("hola")
-print("hola")
-print("hola")
+print("otro pinr")
+print("otro pinr")
+print("otro pinr")
